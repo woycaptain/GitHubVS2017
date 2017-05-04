@@ -11,6 +11,7 @@ namespace VersieBeheer
         static void Main(string[] args)
         {
             Console.Write("Hello World");
+            Console.Write("Hello World2");
             Console.ReadLine();
         }
     }
